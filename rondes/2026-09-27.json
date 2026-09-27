@@ -1,0 +1,561 @@
+{
+ "ronde": "2026-09-27",
+ "vastgelegd_op": "2026-09-27T11:10:50+00:00",
+ "sluit_op": "2027-01-01T00:00:00Z",
+ "methode": "Per wet het recente Nederlandse nieuws, een basiskans vooraf zonder nieuws, en drie verschillende taalmodellen die los van elkaar oordelen. Samengevoegd in logit-ruimte en geklemd tussen 2 en 97 procent. Scoring na de uitslag met de Brier-score en de log-score.",
+ "aantal": 22,
+ "aantal_met_kans": 22,
+ "duur_minuten": 71.5,
+ "voorspellingen": [
+  {
+   "id": "belastingplan-2027",
+   "kamerstuk": "37022",
+   "korte_naam": "Belastingplan 2027",
+   "titel": "Wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2027)",
+   "vraag": "Treedt het Belastingplan 2027, kamerstuk 37022, op 1 januari 2027 in werking?",
+   "resolutie": "JA als de wet op of vóór 1 januari 2027 in het Staatsblad staat, zodat zij volgens haar inwerkingtredingsartikel op 1 januari 2027 in werking treedt. NEE als de wet later ingaat, niet wordt aangenomen of wordt ingetrokken. Hoofddeel: de maatregelen die volgens het inwerkingtredingsartikel per 1 januari 2027 gelden. Onderdelen die het wetsvoorstel zelf pas later laat ingaan, zoals maatregelen per 2028, tellen niet mee.",
+   "stand": "In behandeling bij de Tweede Kamer. Laatste stap op 24 september 2026: Behandelen volgens het reeds vastgestelde behandelschema voor het pakket Belastingplan 2027. De regering beoogt inwerkingtreding op 1 januari 2027. Eerder, op 25 september 2026: In behandeling bij de Tweede Kamer: ingediend op 15 september 2026, op 22 september 2026 in handen gesteld van de commissie voor Financiën, met inbreng voor het verslag op 1 oktober en een wetgevingsoverleg op 12 oktober 2026.",
+   "stand_datum": "2026-09-27",
+   "bron_datum": {
+    "url": "https://www.eerstekamer.nl/wetsvoorstel/37022_belastingplan_2027",
+    "citaat": "Deze wet treedt in werking met ingang van 1 januari 2027"
+   },
+   "bron_stand": "https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?cfg=wetsvoorsteldetails&qry=wetsvoorstel%3A37022",
+   "kans_ja": 0.97,
+   "basiskans_vooraf": 0.98,
+   "geklemd_op_basiskans": false,
+   "nieuwsberichten_in_dossier": 10,
+   "uitslag": null,
+   "losse_oordelen": [
+    0.98,
+    0.98
+   ],
+   "aantal_modellen_met_kans": 2
+  },
+  {
+   "id": "overige-fiscale-maatregelen-2027",
+   "kamerstuk": "37023",
+   "korte_naam": "Overige fiscale maatregelen 2027",
+   "titel": "Wijziging van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2027)",
+   "vraag": "Treedt de wet Overige fiscale maatregelen 2027, kamerstuk 37023, op 1 januari 2027 in werking?",
+   "resolutie": "JA als de wet op of vóór 1 januari 2027 in het Staatsblad staat, zodat zij volgens haar inwerkingtredingsartikel op 1 januari 2027 in werking treedt. NEE als de wet later ingaat, niet wordt aangenomen of wordt ingetrokken. Hoofddeel: de wet als geheel. De terugwerkende kracht van artikel VI, onderdeel A, doet niet af aan JA.",
+   "stand": "In behandeling bij de Tweede Kamer. Laatste stap op 24 september 2026: Behandelen volgens het reeds vastgestelde behandelschema voor het pakket Belastingplan 2027. De regering beoogt inwerkingtreding op 1 januari 2027. Eerder, op 25 september 2026: In behandeling bij de Tweede Kamer: ingediend op 15 september 2026 en behandeld volgens het schema van het pakket Belastingplan 2027, met inbreng voor het verslag op 1 oktober en een wetgevingsoverleg op 12 oktober 2026.",
+   "stand_datum": "2026-09-27",
+   "bron_datum": {
+    "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z18820&did=2026D43288",
+    "citaat": "Deze wet treedt in werking met ingang van 1 januari 2027"
+   },
+   "bron_stand": "https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?cfg=wetsvoorsteldetails&qry=wetsvoorstel%3A37023",
+   "kans_ja": 0.9307,
+   "basiskans_vooraf": 0.95,
+   "geklemd_op_basiskans": false,
+   "nieuwsberichten_in_dossier": 10,
+   "uitslag": null,
+   "losse_oordelen": [
+    0.92,
+    0.94
+   ],
+   "aantal_modellen_met_kans": 2
+  },
+  {
+   "id": "fiscale-stimulering-startups",
+   "kamerstuk": "37024",
+   "korte_naam": "Belastingvoordeel op aandelenopties bij start-ups",
+   "titel": "Wijziging van de Wet inkomstenbelasting 2001, de Wet op de loonbelasting 1964 en enige andere wetten inzake de belastingheffing met betrekking tot aandelenoptierechten van werknemers en de daaruit verkregen aandelen van start-ups en scale-ups en inzake de afschaffing van de stakingsaftrek en de meewerkaftrek (Wet fiscale stimulering start-ups en scale-ups)",
+   "vraag": "Treedt de aandelenoptieregeling uit de Wet fiscale stimulering start-ups en scale-ups, kamerstuk 37024, op 1 januari 2027 in werking?",
+   "resolutie": "JA als op of vóór 1 januari 2027 de wet en een koninklijk besluit in het Staatsblad staan waardoor het hoofddeel op 1 januari 2027 in werking treedt. NEE als dat later gebeurt, de wet niet wordt aangenomen of wordt ingetrokken. Hoofddeel: de regeling voor aandelenoptierechten van werknemers van start-ups en scale-ups in de loonbelasting en box 1. De box 3-vrijstelling, beoogd per 1 januari 2028, telt niet mee.",
+   "stand": "In behandeling bij de Tweede Kamer. Laatste stap op 24 september 2026: Behandelen volgens het reeds vastgestelde behandelschema voor het pakket Belastingplan 2027. De regering beoogt inwerkingtreding op 1 januari 2027. Eerder, op 25 september 2026: In behandeling bij de Tweede Kamer: ingediend op 15 september 2026, en op 24 september 2026 besloot een tijdelijke Kamercommissie een adviestraject over het wetsvoorstel te starten.",
+   "stand_datum": "2026-09-27",
+   "bron_datum": {
+    "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z18830&did=2026D43330",
+    "citaat": "aandelenoptierechten en daaruit verkregen aandelen met ingang van 1 januari 2027 in werking treden"
+   },
+   "bron_stand": "https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?cfg=wetsvoorsteldetails&qry=wetsvoorstel%3A37024",
+   "kans_ja": 0.5267,
+   "basiskans_vooraf": 0.6,
+   "geklemd_op_basiskans": false,
+   "nieuwsberichten_in_dossier": 10,
+   "uitslag": null,
+   "losse_oordelen": [
+    0.4,
+    0.65
+   ],
+   "aantal_modellen_met_kans": 2
+  },
+  {
+   "id": "veiligehavenregels-minimumbelasting",
+   "kamerstuk": "37025",
+   "korte_naam": "Veilige havens in de minimumbelasting voor concerns",
+   "titel": "Wijziging van de Wet minimumbelasting 2024 in verband met de internationaal overeengekomen veiligehavenregels in het Side-by-Side-pakket en een aantal overige technische wijzigingen (Wet veiligehavenregels Wet minimumbelasting 2024)",
+   "vraag": "Treedt de Wet veiligehavenregels Wet minimumbelasting 2024, kamerstuk 37025, op 1 januari 2027 in werking?",
+   "resolutie": "JA als de wet op of vóór 1 januari 2027 in het Staatsblad staat, zodat zij volgens haar inwerkingtredingsartikel op 1 januari 2027 in werking treedt. NEE als de wet later ingaat, niet wordt aangenomen of wordt ingetrokken. Hoofddeel: de veiligehavenregels uit het Side-by-Side-pakket in de Wet minimumbelasting 2024. Terugwerkende kracht van onderdelen tot 2026 doet niet af aan JA.",
+   "stand": "In behandeling bij de Tweede Kamer. Laatste stap op 24 september 2026: Behandelen volgens het reeds vastgestelde behandelschema voor het pakket Belastingplan 2027. De regering beoogt inwerkingtreding op 1 januari 2027. Eerder, op 25 september 2026: In behandeling bij de Tweede Kamer: ingediend op 15 september 2026 als deel van het pakket Belastingplan 2027, met inbreng voor het verslag op 1 oktober en een wetgevingsoverleg op 12 oktober 2026.",
+   "stand_datum": "2026-09-27",
+   "bron_datum": {
+    "url": "https://www.eerstekamer.nl/wetsvoorstel/37025_wet_veiligehavenregels_wet",
+    "citaat": "Met ingang van 1 januari 2027, met dien verstande dat:"
+   },
+   "bron_stand": "https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?cfg=wetsvoorsteldetails&qry=wetsvoorstel%3A37025",
+   "kans_ja": 0.8568,
+   "basiskans_vooraf": 0.8,
+   "geklemd_op_basiskans": false,
+   "nieuwsberichten_in_dossier": 10,
+   "uitslag": null,
+   "losse_oordelen": [
+    0.83,
+    0.88
+   ],
+   "aantal_modellen_met_kans": 2
+  },
+  {
+   "id": "fiscale-verzamelwet-2027",
+   "kamerstuk": "36938",
+   "korte_naam": "Fiscale verzamelwet 2027",
+   "titel": "Wijziging van enkele belastingwetten en enige andere wetten (Fiscale verzamelwet 2027)",
+   "vraag": "Treedt de Fiscale verzamelwet 2027, kamerstuk 36938, op 1 januari 2027 in werking?",
+   "resolutie": "JA als de wet op of vóór 1 januari 2027 in het Staatsblad staat, zodat zij volgens haar inwerkingtredingsartikel op 1 januari 2027 in werking treedt. NEE als de wet later ingaat, niet wordt aangenomen of wordt ingetrokken. Hoofddeel: de maatregelen die volgens het inwerkingtredingsartikel per 1 januari 2027 gelden. Bepalingen met terugwerkende kracht doen niet af aan JA.",
+   "stand": "In behandeling bij de Tweede Kamer. Laatste stap op 9 september 2026: Agenderen voor behandeling in een (kort) wetgevingsoverleg. De regering beoogt inwerkingtreding op 1 januari 2027. Eerder, op 25 september 2026: In behandeling bij de Tweede Kamer: de nota naar aanleiding van het verslag kwam op 8 juli 2026 en het wetgevingsoverleg staat op 29 september 2026.",
+   "stand_datum": "2026-09-27",
+   "bron_datum": {
+    "url": "https://www.eerstekamer.nl/wetsvoorstel/36938_fiscale_verzamelwet_2027",
+    "citaat": "Met ingang van 1 januari 2027, met dien verstande dat:"
+   },
+   "bron_stand": "https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?cfg=wetsvoorsteldetails&qry=wetsvoorstel%3A36938",
+   "kans_ja": 0.8441,
+   "basiskans_vooraf": 0.85,
+   "geklemd_op_basiskans": false,
+   "nieuwsberichten_in_dossier": 10,
+   "uitslag": null,
+   "losse_oordelen": [
+    0.8,
+    0.88
+   ],
+   "aantal_modellen_met_kans": 2
+  },
+  {
+   "id": "kindregelingen-2027",
+   "kamerstuk": "36923",
+   "korte_naam": "Kindgebonden budget en kinderbijslag anders verdeeld",
+   "titel": "Wijziging van diverse wetten in verband met budgettaire wijzigingen van de kindregelingen (meer gerichtheid en meer zekerheid kindgebonden budget en kinderbijslag)",
+   "vraag": "Treedt de wet over budgettaire wijzigingen van de kindregelingen, kamerstuk 36923, op 1 januari 2027 in werking?",
+   "resolutie": "JA als op of vóór 1 januari 2027 de wet, en zo nodig een koninklijk besluit, in het Staatsblad staat waardoor het hoofddeel op 1 januari 2027 in werking treedt. Volgens de tweede nota van wijziging gaat de wet vanzelf op 1 januari 2027 in bij publicatie uiterlijk 31 december 2026. NEE als het hoofddeel later ingaat, de wet niet wordt aangenomen of wordt ingetrokken. Hoofddeel: de hogere afbouw van het kindgebonden budget en de aanpassing van de kinderbijslag per 2027.",
+   "stand": "In behandeling bij de Tweede Kamer. Laatste stap op 22 september 2026: Ter informatie. De regering beoogt inwerkingtreding op 1 januari 2027. Eerder, op 25 september 2026: In behandeling bij de Tweede Kamer: een tweede nota van wijziging volgde op 17 september 2026 en het wetgevingsoverleg vond plaats op 21 september 2026, de stemming moet nog komen.",
+   "stand_datum": "2026-09-27",
+   "bron_datum": {
+    "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z06992&did=2026D43607",
+    "citaat": "Deze wet treedt in werking met ingang van 1 januari 2027."
+   },
+   "bron_stand": "https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?cfg=wetsvoorsteldetails&qry=wetsvoorstel%3A36923",
+   "kans_ja": 0.8048,
+   "basiskans_vooraf": 0.8,
+   "geklemd_op_basiskans": false,
+   "nieuwsberichten_in_dossier": 10,
+   "uitslag": null,
+   "losse_oordelen": [
+    0.75,
+    0.85
+   ],
+   "aantal_modellen_met_kans": 2
+  },
+  {
+   "id": "eigen-risico-2027",
+   "kamerstuk": "36943",
+   "korte_naam": "Eigen risico zorgverzekering 60 euro omhoog",
+   "titel": "Wijziging van de Zorgverzekeringswet teneinde het verplicht eigen risico voor de zorgverzekering per 2027 te verhogen",
+   "vraag": "Treedt de verhoging van het verplicht eigen risico, kamerstuk 36943, op 1 januari 2027 in werking?",
+   "resolutie": "JA als op of vóór 1 januari 2027 de wet in het Staatsblad staat en in werking is, zodat de verhoging van 60 euro bovenop de indexatie geldt voor het verplicht eigen risico van 2027. NEE als de verhoging later ingaat, de wet niet wordt aangenomen of wordt ingetrokken. Hoofddeel: die verhoging. De tranchering per behandelprestatie, beoogd per 2028, telt niet mee. Let op: het wetsvoorstel noemt als inwerkingtredingsdatum nog 1 september 2026.",
+   "stand": "In behandeling bij de Tweede Kamer. Laatste stap op 25 juni 2026: Agenderen voor plenair debat. De regering beoogt inwerkingtreding op 1 januari 2027. Eerder, op 25 september 2026: In behandeling bij de Tweede Kamer: de nota naar aanleiding van het verslag kwam op 19 juni 2026 en het voorstel is op 24 juni 2026 aangemeld voor plenaire behandeling, zonder vastgestelde debatdatum.",
+   "stand_datum": "2026-09-27",
+   "bron_datum": {
+    "url": "https://zoek.officielebekendmakingen.nl/kst-36943-3.html",
+    "citaat": "De verhoging van het eigen risico zal ingaan op 1 januari 2027."
+   },
+   "bron_stand": "https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?cfg=wetsvoorsteldetails&qry=wetsvoorstel%3A36943",
+   "kans_ja": 0.2554,
+   "basiskans_vooraf": 0.6,
+   "geklemd_op_basiskans": false,
+   "nieuwsberichten_in_dossier": 10,
+   "uitslag": null,
+   "losse_oordelen": [
+    0.15,
+    0.4
+   ],
+   "aantal_modellen_met_kans": 2
+  },
+  {
+   "id": "loontransparantie",
+   "kamerstuk": "36949",
+   "korte_naam": "Loontransparantie tussen mannen en vrouwen",
+   "titel": "Wijziging van de Wet gelijke behandeling van mannen en vrouwen en enige andere wetten in verband met de implementatie van Richtlijn (EU) 2023/970 ter versterking van de toepassing van het beginsel van gelijke beloning van mannen en vrouwen voor gelijke of gelijkwaardige arbeid door middel van beloningstransparantie en handhavingsmechanismen (Wet implementatie Richtlijn loontransparantie mannen en vrouwen)",
+   "vraag": "Treedt de Wet implementatie Richtlijn loontransparantie mannen en vrouwen, kamerstuk 36949, op 1 januari 2027 in werking?",
+   "resolutie": "JA als op of vóór 1 januari 2027 de wet en een koninklijk besluit in het Staatsblad staan waardoor het hoofddeel op 1 januari 2027 in werking treedt. NEE als dat later gebeurt, de wet niet wordt aangenomen of wordt ingetrokken. Hoofddeel: de nieuwe regels over beloningstransparantie in de Wet gelijke behandeling van mannen en vrouwen. Rapportageplichten die de wet zelf pas later laat gelden, tellen niet mee.",
+   "stand": "In behandeling bij de Tweede Kamer. Laatste stap op 10 september 2026: Agenderen voor plenair debat. De regering beoogt inwerkingtreding op 1 januari 2027. Eerder, op 25 september 2026: In behandeling bij de Tweede Kamer: nota naar aanleiding van het verslag en nota van wijziging op 2 september 2026, plenair debat gepland op 7 december 2026.",
+   "stand_datum": "2026-09-27",
+   "bron_datum": {
+    "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z10622&did=2026D40128",
+    "citaat": "streeft ernaar het wetsvoorstel per 1 januari 2027 in werking te kunnen laten treden"
+   },
+   "bron_stand": "https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?cfg=wetsvoorsteldetails&qry=wetsvoorstel%3A36949",
+   "kans_ja": 0.2,
+   "basiskans_vooraf": 0.4,
+   "geklemd_op_basiskans": false,
+   "nieuwsberichten_in_dossier": 10,
+   "uitslag": null,
+   "losse_oordelen": [
+    0.2,
+    0.2
+   ],
+   "aantal_modellen_met_kans": 2
+  },
+  {
+   "id": "aanvullende-tegemoetkoming-leenstelsel",
+   "kamerstuk": "36922",
+   "korte_naam": "Extra compensatie voor studenten uit het leenstelsel",
+   "titel": "Wijziging van de Wet studiefinanciering 2000 in verband met de verstrekking van een aanvullende tegemoetkoming aan studenten die onder het studievoorschotstelsel hebben gestudeerd",
+   "vraag": "Treedt de wet over de aanvullende tegemoetkoming voor studenten uit het studievoorschotstelsel, kamerstuk 36922, op 1 januari 2027 in werking?",
+   "resolutie": "JA als op of vóór 1 januari 2027 de wet en een koninklijk besluit in het Staatsblad staan waardoor het hoofddeel op 1 januari 2027 in werking treedt. NEE als dat later gebeurt, de wet niet wordt aangenomen of wordt ingetrokken. Hoofddeel: het recht op de aanvullende tegemoetkoming van 44,50 euro per maand leenstelsel, prijspeil 2026.",
+   "stand": "In behandeling bij de Tweede Kamer. Laatste stap op 24 september 2026: Behandeld. De regering beoogt inwerkingtreding op 1 januari 2027. Eerder, op 25 september 2026: In behandeling bij de Tweede Kamer: het plenaire debat is op 23 september 2026 afgerond en de stemming over het wetsvoorstel, de amendementen en de moties moet nog plaatsvinden.",
+   "stand_datum": "2026-09-27",
+   "bron_datum": {
+    "url": "https://zoek.officielebekendmakingen.nl/kst-36922-3.html",
+    "citaat": "De beoogde inwerkingtreding van het wetsvoorstel is 1 januari 2027."
+   },
+   "bron_stand": "https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?cfg=wetsvoorsteldetails&qry=wetsvoorstel%3A36922",
+   "kans_ja": 0.7316,
+   "basiskans_vooraf": 0.5,
+   "geklemd_op_basiskans": false,
+   "nieuwsberichten_in_dossier": 10,
+   "uitslag": null,
+   "losse_oordelen": [
+    0.65,
+    0.8
+   ],
+   "aantal_modellen_met_kans": 2
+  },
+  {
+   "id": "compensatie-transitievergoeding",
+   "kamerstuk": "36869",
+   "korte_naam": "Afschaffing compensatie transitievergoeding voor werkgevers",
+   "titel": "Wijziging van Boek 7 van het Burgerlijk Wetboek in verband met het afschaffen van de regels inzake compensatie van de transitievergoeding bij ontslag wegens langdurige arbeidsongeschiktheid en bedrijfsbeëindiging",
+   "vraag": "Treedt de wet die de compensatie van de transitievergoeding afschaft, kamerstuk 36869, op 1 januari 2027 in werking?",
+   "resolutie": "JA als op of vóór 1 januari 2027 de wet en een koninklijk besluit in het Staatsblad staan waardoor het hoofddeel op 1 januari 2027 in werking treedt. NEE als dat later gebeurt, de wet niet wordt aangenomen of wordt ingetrokken. Hoofddeel: het afschaffen van de compensatieregelingen voor de transitievergoeding bij langdurige arbeidsongeschiktheid en bij bedrijfsbeëindiging.",
+   "stand": "In behandeling bij de Tweede Kamer. Laatste stap op 13 juli 2026: Inbreng geleverd. De regering beoogt inwerkingtreding op 1 januari 2027. Eerder, op 25 september 2026: In behandeling bij de Tweede Kamer: nota naar aanleiding van het verslag en nota van wijziging op 2 juni 2026, plenair debat gepland op 5 oktober 2026.",
+   "stand_datum": "2026-09-27",
+   "bron_datum": {
+    "url": "https://zoek.officielebekendmakingen.nl/kst-36869-7.html",
+    "citaat": "wordt de nieuwe voorziene inwerkingtredingsdatum 1 januari 2027"
+   },
+   "bron_stand": "https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?cfg=wetsvoorsteldetails&qry=wetsvoorstel%3A36869",
+   "kans_ja": 0.0631,
+   "basiskans_vooraf": 0.35,
+   "geklemd_op_basiskans": true,
+   "nieuwsberichten_in_dossier": 10,
+   "uitslag": null,
+   "losse_oordelen": [
+    0.05,
+    0.05
+   ],
+   "aantal_modellen_met_kans": 2
+  },
+  {
+   "id": "proactieve-dienstverlening-szw",
+   "kamerstuk": "36799",
+   "korte_naam": "Proactieve dienstverlening door UWV, SVB en gemeenten",
+   "titel": "Wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen in verband met het bevorderen van proactieve dienstverlening door het UWV, de SVB en gemeenten (Wet proactieve dienstverlening SZW)",
+   "vraag": "Treedt de Wet proactieve dienstverlening SZW, kamerstuk 36799, op 1 januari 2027 in werking?",
+   "resolutie": "JA als op of vóór 1 januari 2027 de wet en een koninklijk besluit in het Staatsblad staan waardoor het hoofddeel op 1 januari 2027 in werking treedt. NEE als dat later gebeurt, de wet niet wordt aangenomen of wordt ingetrokken. Hoofddeel: de taak en de gegevensgrondslag voor proactieve dienstverlening door UWV, SVB en gemeenten. Artikel I, onderdelen F en G, die daags na publicatie ingaan, tellen niet mee.",
+   "stand": "In behandeling bij de Tweede Kamer. Laatste stap op 22 september 2026: Stemming uitgesteld. De regering beoogt inwerkingtreding op 1 januari 2027. Eerder, op 25 september 2026: In behandeling bij de Tweede Kamer: na het wetgevingsoverleg van 7 september 2026 is de stemming op 22 september uitgesteld en geagendeerd voor 29 september 2026.",
+   "stand_datum": "2026-09-27",
+   "bron_datum": {
+    "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z17469&did=2026D39895",
+    "citaat": "streven wij nu naar een inwerkingtreding op 1 januari 2027"
+   },
+   "bron_stand": "https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?cfg=wetsvoorsteldetails&qry=wetsvoorstel%3A36799",
+   "kans_ja": 0.2139,
+   "basiskans_vooraf": 0.25,
+   "geklemd_op_basiskans": false,
+   "nieuwsberichten_in_dossier": 10,
+   "uitslag": null,
+   "losse_oordelen": [
+    0.1,
+    0.4
+   ],
+   "aantal_modellen_met_kans": 2
+  },
+  {
+   "id": "herstel-afwikkeling-verzekeraars",
+   "kamerstuk": "36964",
+   "korte_naam": "Crisisregels voor falende verzekeraars",
+   "titel": "Wijziging van de Wet op het financieel toezicht, de Faillissementswet en de Bankwet 1998 in verband met de implementatie van de richtlijn herstel en afwikkeling van verzekeraars (Implementatiewet herstel en afwikkeling verzekeraars)",
+   "vraag": "Treedt de Implementatiewet herstel en afwikkeling verzekeraars, kamerstuk 36964, op 1 januari 2027 in werking?",
+   "resolutie": "JA als op of vóór 1 januari 2027 de wet en een koninklijk besluit in het Staatsblad staan waardoor het hoofddeel op 1 januari 2027 in werking treedt. NEE als dat later gebeurt, de wet niet wordt aangenomen of wordt ingetrokken. Hoofddeel: het herstel- en afwikkelingskader voor verzekeraars ter implementatie van de richtlijn.",
+   "stand": "In behandeling bij de Tweede Kamer. Laatste stap op 2 juli 2026: Inbrengdatum voor het verslag vaststellen op dinsdag 1 september 2026 om 14.00 uur. De regering beoogt inwerkingtreding op 1 januari 2027. Eerder, op 25 september 2026: In behandeling bij de Tweede Kamer: de commissie voor Financiën bracht op 7 september 2026 verslag uit en de nota naar aanleiding van het verslag is er nog niet.",
+   "stand_datum": "2026-09-27",
+   "bron_datum": {
+    "url": "https://zoek.officielebekendmakingen.nl/kst-36964-3.html",
+    "citaat": "met als streefdatum 1 januari 2027, conform de vaste verandermomenten voor wet- en regelgeving"
+   },
+   "bron_stand": "https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?cfg=wetsvoorsteldetails&qry=wetsvoorstel%3A36964",
+   "kans_ja": 0.1952,
+   "basiskans_vooraf": 0.3,
+   "geklemd_op_basiskans": false,
+   "nieuwsberichten_in_dossier": 2,
+   "uitslag": null,
+   "losse_oordelen": [
+    0.15,
+    0.25
+   ],
+   "aantal_modellen_met_kans": 2
+  },
+  {
+   "id": "gegevensverwerking-funderend-onderwijs",
+   "kamerstuk": "36903",
+   "korte_naam": "Wettelijke basis voor leerlinggegevens op scholen",
+   "titel": "Wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet voortgezet onderwijs 2020 en de Wet register onderwijsdeelnemers in verband met de wettelijke borging van diverse verwerkingen van persoonsgegevens in het funderend onderwijs (Wet borging gegevensverwerkingen funderend onderwijs)",
+   "vraag": "Treedt de Wet borging gegevensverwerkingen funderend onderwijs, kamerstuk 36903, op 1 januari 2027 in werking?",
+   "resolutie": "JA als op of vóór 1 januari 2027 de wet en een koninklijk besluit in het Staatsblad staan waardoor het hoofddeel op 1 januari 2027 in werking treedt. NEE als dat later gebeurt, de wet niet wordt aangenomen of wordt ingetrokken. Hoofddeel: de nieuwe wettelijke grondslagen voor het verwerken van persoonsgegevens in het primair, voortgezet en speciaal onderwijs.",
+   "stand": "In behandeling bij de Tweede Kamer. Laatste stap op 24 maart 2026: Inbreng geleverd. De regering beoogt inwerkingtreding op 1 januari 2027. Eerder, op 25 september 2026: In behandeling bij de Tweede Kamer: nota naar aanleiding van het verslag en nota van wijziging op 22 september 2026, bespreking in de procedurevergadering op 8 oktober 2026.",
+   "stand_datum": "2026-09-27",
+   "bron_datum": {
+    "url": "https://zoek.officielebekendmakingen.nl/kst-36903-3.html",
+    "citaat": "Beoogd is om het wetsvoorstel per 1 januari 2027 in werking te laten treden."
+   },
+   "bron_stand": "https://www.tweedekamer.nl/kamerstukken/wetsvoorstellen/detail?cfg=wetsvoorsteldetails&qry=wetsvoorstel%3A36903",
+   "kans_ja": 0.1965,
+   "basiskans_vooraf": 0.25,
+   "geklemd_op_basiskans": false,
+   "nieuwsberichten_in_dossier": 10,
+   "uitslag": null,
+   "losse_oordelen": [
+    0.1,
+    0.35
+   ],
+   "aantal_modellen_met_kans": 2
+  },
+  {
+   "id": "fiscale-verzamelwet-bes-2027",
+   "kamerstuk": "36939",
+   "korte_naam": "Fiscale verzamelwet Bonaire, Sint Eustatius en Saba",
+   "titel": "Wijziging van enkele belastingwetten en enige andere wetten die betrekking hebben op de BES eilanden (Fiscale verzamelwet BES eilanden 2027)",
+   "vraag": "Treedt de Fiscale verzamelwet BES eilanden 2027, kamerstuk 36939, op 1 januari 2027 in werking?",
+   "resolutie": "JA als de wet op of vóór 1 januari 2027 in het Staatsblad staat, zodat zij volgens haar inwerkingtredingsartikel op 1 januari 2027 in werking treedt. NEE als de wet later ingaat, niet wordt aangenomen of wordt ingetrokken. Hoofddeel: de wet als geheel. De terugwerkende kracht van artikel IV doet niet af aan JA.",
+   "stand": "Aangenomen door de Tweede Kamer op 18 september 2026, en nog niet in het Staatsblad. De regering beoogt inwerkingtreding op 1 januari 2027. Eerder, op 25 september 2026: In behandeling bij de Eerste Kamer: de Tweede Kamer deed het voorstel op 17 september 2026 af als hamerstuk en de Eerste Kamer doet het op 6 oktober 2026 als hamerstuk af tenzij een lid uiterlijk 29 september 2026 schriftelijke voorbereiding vraagt.",
+   "stand_datum": "2026-09-27",
+   "bron_datum": {
+    "url": "https://www.eerstekamer.nl/wetsvoorstel/36939_fiscale_verzamelwet_bes",
+    "citaat": "Met ingang van 1 januari 2027, met dien verstande dat artikel IV"
+   },
+   "bron_stand": "https://www.eerstekamer.nl/wetsvoorstel/36939_fiscale_verzamelwet_bes",
+   "kans_ja": 0.96,
+   "basiskans_vooraf": 0.95,
+   "geklemd_op_basiskans": false,
+   "nieuwsberichten_in_dossier": 10,
+   "uitslag": null,
+   "losse_oordelen": [
+    0.96,
+    0.96
+   ],
+   "aantal_modellen_met_kans": 2
+  },
+  {
+   "id": "partnerbegrip-toeslagen",
+   "kamerstuk": "36932",
+   "korte_naam": "Eenvoudiger toeslagpartnerbegrip",
+   "titel": "Wijziging van de Algemene wet inkomensafhankelijke regelingen en enkele andere wetten met het oog op het vereenvoudigen van het partnerbegrip voor toeslagen (Wet vereenvoudiging partnerbegrip toeslagen)",
+   "vraag": "Treedt de Wet vereenvoudiging partnerbegrip toeslagen, kamerstuk 36932, op 1 januari 2027 in werking?",
+   "resolutie": "JA als de wet op of vóór 1 januari 2027 in het Staatsblad staat, zodat zij volgens haar inwerkingtredingsartikel op 1 januari 2027 in werking treedt. NEE als de wet later ingaat, niet wordt aangenomen of wordt ingetrokken. Hoofddeel: het vereenvoudigde toeslagpartnerbegrip in de Algemene wet inkomensafhankelijke regelingen.",
+   "stand": "Aangenomen door de Tweede Kamer op 18 september 2026, en nog niet in het Staatsblad. De regering beoogt inwerkingtreding op 1 januari 2027. Eerder, op 25 september 2026: In behandeling bij de Eerste Kamer: de Tweede Kamer deed het voorstel op 17 september 2026 af als hamerstuk en de Eerste Kamer doet het op 6 oktober 2026 als hamerstuk af tenzij een lid uiterlijk 29 september 2026 schriftelijke voorbereiding vraagt.",
+   "stand_datum": "2026-09-27",
+   "bron_datum": {
+    "url": "https://www.eerstekamer.nl/wetsvoorstel/36932_wet_vereenvoudiging",
+    "citaat": "Met ingang van 1 januari 2027, met dien verstande dat:"
+   },
+   "bron_stand": "https://www.eerstekamer.nl/wetsvoorstel/36932_wet_vereenvoudiging",
+   "kans_ja": 0.9162,
+   "basiskans_vooraf": 0.85,
+   "geklemd_op_basiskans": false,
+   "nieuwsberichten_in_dossier": 10,
+   "uitslag": null,
+   "losse_oordelen": [
+    0.9,
+    0.93
+   ],
+   "aantal_modellen_met_kans": 2
+  },
+  {
+   "id": "handhaving-sociale-zekerheid",
+   "kamerstuk": "36785",
+   "korte_naam": "Passender handhaving in de sociale zekerheid",
+   "titel": "Regels met betrekking tot de handhaving in de sociale zekerheid om meer passend handhaven mogelijk te maken (Wet handhaving sociale zekerheid)",
+   "vraag": "Treedt de Wet handhaving sociale zekerheid, kamerstuk 36785, op 1 januari 2027 in werking?",
+   "resolutie": "JA als op of vóór 1 januari 2027 de wet en een koninklijk besluit in het Staatsblad staan waardoor het hoofddeel op 1 januari 2027 in werking treedt. NEE als dat later gebeurt, de wet niet wordt aangenomen of wordt ingetrokken. Hoofddeel: de nieuwe regels voor terugvordering, waarschuwing en boetes in de socialezekerheidswetten.",
+   "stand": "Aangenomen door de Tweede Kamer op 2 juli 2026, en nog niet in het Staatsblad. De regering beoogt inwerkingtreding op 1 januari 2027. Eerder, op 25 september 2026: In behandeling bij de Eerste Kamer: de Tweede Kamer nam het voorstel op 2 juli 2026 aan en de inbreng voor het verslag van de Eerste Kamercommissie volgde op 22 september 2026.",
+   "stand_datum": "2026-09-27",
+   "bron_datum": {
+    "url": "https://zoek.officielebekendmakingen.nl/kst-36785-3.html",
+    "citaat": "De beoogde datum voor inwerkingtreding is 1 januari 2027."
+   },
+   "bron_stand": "https://www.eerstekamer.nl/wetsvoorstel/36785_wet_handhaving_sociale",
+   "kans_ja": 0.6253,
+   "basiskans_vooraf": 0.5,
+   "geklemd_op_basiskans": false,
+   "nieuwsberichten_in_dossier": 10,
+   "uitslag": null,
+   "losse_oordelen": [
+    0.6,
+    0.65
+   ],
+   "aantal_modellen_met_kans": 2
+  },
+  {
+   "id": "bijstand-stemhokje",
+   "kamerstuk": "36863",
+   "korte_naam": "Hulp voor kiezers in het stemhokje",
+   "titel": "Wijziging van de Kieswet in verband met het stellen van nadere regels voor bijstand in het stemhokje en voor de benoeming van stembureauleden",
+   "vraag": "Treedt de wijziging van de Kieswet over bijstand in het stemhokje, kamerstuk 36863, op 1 januari 2027 in werking?",
+   "resolutie": "JA als op of vóór 1 januari 2027 de wet en een koninklijk besluit in het Staatsblad staan waardoor het hoofddeel op 1 januari 2027 in werking treedt. NEE als dat later gebeurt, de wet niet wordt aangenomen of wordt ingetrokken. Hoofddeel: de nieuwe regels in de Kieswet voor bijstand aan kiezers in het stemhokje.",
+   "stand": "Aangenomen door de Tweede Kamer op 2 juli 2026, en nog niet in het Staatsblad. De regering beoogt inwerkingtreding op 1 januari 2027. Eerder, op 25 september 2026: In behandeling bij de Eerste Kamer: de Tweede Kamer nam het voorstel op 2 juli 2026 aan en de Eerste Kamercommissie bracht op 15 september 2026 verslag uit, de nota naar aanleiding daarvan ontbreekt nog.",
+   "stand_datum": "2026-09-27",
+   "bron_datum": {
+    "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z14903&did=2026D33418",
+    "citaat": "het wetsvoorstel met ingang van 1 januari 2027 in werking te laten treden"
+   },
+   "bron_stand": "https://www.eerstekamer.nl/wetsvoorstel/36863_hulp_voor_kiezers_in_het",
+   "kans_ja": 0.65,
+   "basiskans_vooraf": 0.5,
+   "geklemd_op_basiskans": false,
+   "nieuwsberichten_in_dossier": 10,
+   "uitslag": null,
+   "losse_oordelen": [
+    0.65,
+    0.65
+   ],
+   "aantal_modellen_met_kans": 2
+  },
+  {
+   "id": "archiefwet-2026",
+   "kamerstuk": "35968",
+   "korte_naam": "Nieuwe Archiefwet",
+   "titel": "Wet van 13 mei 2026 tot intrekking van de Archiefwet 1995 en vervanging door een nieuwe Archiefwet (Archiefwet 2026)",
+   "vraag": "Treedt de Archiefwet 2026, kamerstuk 35968, op 1 januari 2027 in werking?",
+   "resolutie": "JA als op of vóór 1 januari 2027 een koninklijk besluit in het Staatsblad staat waardoor het hoofddeel op 1 januari 2027 in werking treedt. NEE als het hoofddeel later ingaat of de wet wordt ingetrokken. Hoofddeel: de Archiefwet 2026 zelf, met de intrekking van de Archiefwet 1995.",
+   "stand": "De wet staat in het Staatsblad als stb-2026-149, gepubliceerd op 19 juni 2026. De regering beoogt inwerkingtreding op 1 januari 2027. Eerder, op 25 september 2026: Aangenomen en op 19 juni 2026 gepubliceerd in Staatsblad 2026, 149, met inwerkingtreding bij koninklijk besluit, en tot en met 25 september 2026 staat er geen inwerkingtredingsbesluit in het Staatsblad.",
+   "stand_datum": "2026-09-27",
+   "bron_datum": {
+    "url": "https://zoek.officielebekendmakingen.nl/kst-35968-39.html",
+    "citaat": "richten op de inwerkingtreding van het wetsvoorstel met ingang van 1 januari 2027"
+   },
+   "bron_stand": "https://zoek.officielebekendmakingen.nl/stb-2026-149.html",
+   "kans_ja": 0.75,
+   "basiskans_vooraf": 0.6,
+   "geklemd_op_basiskans": false,
+   "nieuwsberichten_in_dossier": 10,
+   "uitslag": null,
+   "losse_oordelen": [
+    0.75,
+    0.75
+   ],
+   "aantal_modellen_met_kans": 2
+  },
+  {
+   "id": "beleidswaarde-woningwet",
+   "kamerstuk": "36886",
+   "korte_naam": "Beleidswaarde in jaarrekening woningcorporaties",
+   "titel": "Wet van 8 juli 2026 tot wijziging van de Woningwet in verband met het vervangen van de actuele waarde door de beleidswaarde",
+   "vraag": "Treedt de wijziging van de Woningwet over de beleidswaarde, kamerstuk 36886, op 1 januari 2027 in werking?",
+   "resolutie": "JA als op of vóór 1 januari 2027 een koninklijk besluit in het Staatsblad staat waardoor het hoofddeel op 1 januari 2027 in werking treedt. NEE als het hoofddeel later ingaat of de wet wordt ingetrokken. Hoofddeel: de vervanging van de actuele waarde door de beleidswaarde in de Woningwet.",
+   "stand": "De wet staat in het Staatsblad als stb-2026-230, gepubliceerd op 14 augustus 2026. De regering beoogt inwerkingtreding op 1 januari 2027. Eerder, op 25 september 2026: Aangenomen en op 14 augustus 2026 gepubliceerd in Staatsblad 2026, 230, met inwerkingtreding bij koninklijk besluit, en tot en met 25 september 2026 staat er geen inwerkingtredingsbesluit in het Staatsblad.",
+   "stand_datum": "2026-09-27",
+   "bron_datum": {
+    "url": "https://zoek.officielebekendmakingen.nl/kst-36886-3.html",
+    "citaat": "De regering streeft naar inwerkingtreding op 1 januari 2027"
+   },
+   "bron_stand": "https://zoek.officielebekendmakingen.nl/stb-2026-230.html",
+   "kans_ja": 0.85,
+   "basiskans_vooraf": 0.8,
+   "geklemd_op_basiskans": false,
+   "nieuwsberichten_in_dossier": 10,
+   "uitslag": null,
+   "losse_oordelen": [
+    0.85,
+    0.85
+   ],
+   "aantal_modellen_met_kans": 2
+  },
+  {
+   "id": "kwaliteitsaanduidingen-landbouw",
+   "kamerstuk": "36900",
+   "korte_naam": "Beschermde streekproducten volgens nieuwe EU-regels",
+   "titel": "Wet van 24 juni 2026 tot wijziging van de Landbouwkwaliteitswet en de Wet dieren in verband met de implementatie van Verordening (EU) 2024/1143 over kwaliteitsaanduidingen",
+   "vraag": "Treedt de wet over kwaliteitsaanduidingen voor landbouwproducten, kamerstuk 36900, op 1 januari 2027 in werking?",
+   "resolutie": "JA als op of vóór 1 januari 2027 een koninklijk besluit in het Staatsblad staat waardoor het hoofddeel op 1 januari 2027 in werking treedt. NEE als het hoofddeel later ingaat of de wet wordt ingetrokken. Hoofddeel: de uitvoering van Verordening (EU) 2024/1143 in de Landbouwkwaliteitswet en de Wet dieren.",
+   "stand": "De wet staat in het Staatsblad als stb-2026-224, gepubliceerd op 24 juli 2026. De regering beoogt inwerkingtreding op 1 januari 2027. Eerder, op 25 september 2026: Aangenomen en op 24 juli 2026 gepubliceerd in Staatsblad 2026, 224, met inwerkingtreding bij koninklijk besluit, en tot en met 25 september 2026 staat er geen inwerkingtredingsbesluit in het Staatsblad.",
+   "stand_datum": "2026-09-27",
+   "bron_datum": {
+    "url": "https://zoek.officielebekendmakingen.nl/kst-36900-6.html",
+    "citaat": "Beoogd is om 1-1-2027 deze wet en het register in werking te laten treden."
+   },
+   "bron_stand": "https://zoek.officielebekendmakingen.nl/stb-2026-224.html",
+   "kans_ja": 0.776,
+   "basiskans_vooraf": 0.65,
+   "geklemd_op_basiskans": false,
+   "nieuwsberichten_in_dossier": 10,
+   "uitslag": null,
+   "losse_oordelen": [
+    0.75,
+    0.8
+   ],
+   "aantal_modellen_met_kans": 2
+  },
+  {
+   "id": "strafbaarstelling-conversiehandelingen",
+   "kamerstuk": "36178",
+   "korte_naam": "Strafbaarstelling van conversiehandelingen",
+   "titel": "Voorstel van wet van de leden Paulusma, Becker, Westerveld, Dobbe en Kostić tot wijziging van het Wetboek van Strafrecht en enige andere wetten in verband met het strafbaar stellen van handelingen gericht op het veranderen of onderdrukken van de seksuele gerichtheid of genderidentiteit (Wet strafbaarstelling conversiehandelingen)",
+   "vraag": "Treedt de Wet strafbaarstelling conversiehandelingen, kamerstuk 36178, op 1 januari 2027 in werking?",
+   "resolutie": "JA als op of vóór 1 januari 2027 de wet en een koninklijk besluit in het Staatsblad staan waardoor het hoofddeel op 1 januari 2027 in werking treedt. NEE als dat later gebeurt of de wet niet wordt bekrachtigd. Hoofddeel: de strafbaarstelling van conversiehandelingen in het Wetboek van Strafrecht.",
+   "stand": "Aangenomen door de Eerste Kamer op 16 juni 2026 en op 8 september 2026 voor bekrachtiging voorgedragen door het kabinet, maar tot en met 25 september 2026 niet in het Staatsblad en zonder inwerkingtredingsbesluit.",
+   "stand_datum": "2026-09-25",
+   "bron_datum": {
+    "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z19828&did=2026D45891",
+    "citaat": "De initiatiefwet zal met ingang van 1 januari 2027 in werking treden."
+   },
+   "bron_stand": "https://www.eerstekamer.nl/wetsvoorstel/36178_initiatiefvoorstel_paulusma",
+   "kans_ja": 0.776,
+   "basiskans_vooraf": 0.7,
+   "geklemd_op_basiskans": false,
+   "nieuwsberichten_in_dossier": 10,
+   "uitslag": null,
+   "losse_oordelen": [
+    0.75,
+    0.8
+   ],
+   "aantal_modellen_met_kans": 2
+  },
+  {
+   "id": "rapportage-hypotheekmarkt-dnb",
+   "kamerstuk": "36846",
+   "korte_naam": "Hypotheekdata-rapportage aan DNB",
+   "titel": "Wijziging van de Bankwet 1998 in verband met de invoering van een periodieke rapportageverplichting betreffende hypothecaire leningen ten behoeve van de financiële stabiliteitstaak en statistische taak van DNB (Wet rapportage hypotheekmarkt DNB)",
+   "vraag": "Treedt de Wet rapportage hypotheekmarkt DNB, kamerstuk 36846, op 1 januari 2027 in werking?",
+   "resolutie": "JA als op of vóór 1 januari 2027 de wet en een koninklijk besluit in het Staatsblad staan waardoor het hoofddeel op 1 januari 2027 in werking treedt. NEE als dat later gebeurt of de wet niet wordt bekrachtigd. Hoofddeel: de periodieke rapportageplicht over hypothecaire leningen aan DNB in de Bankwet 1998.",
+   "stand": "Aangenomen door de Tweede Kamer op 12 juni 2026, en nog niet in het Staatsblad. De regering beoogt inwerkingtreding op 1 januari 2027. Eerder, op 25 september 2026: Aangenomen: de Eerste Kamer deed het voorstel op 30 juni 2026 af als hamerstuk, maar tot en met 25 september 2026 staat de wet niet in het Staatsblad en is er geen inwerkingtredingsbesluit.",
+   "stand_datum": "2026-09-27",
+   "bron_datum": {
+    "url": "https://zoek.officielebekendmakingen.nl/kst-36846-3.html",
+    "citaat": "deze wet met ingang van 1 januari 2027 in werking te laten treden"
+   },
+   "bron_stand": "https://www.eerstekamer.nl/wetsvoorstel/36846_wet_rapportage",
+   "kans_ja": 0.7257,
+   "basiskans_vooraf": 0.6,
+   "geklemd_op_basiskans": false,
+   "nieuwsberichten_in_dossier": 5,
+   "uitslag": null,
+   "losse_oordelen": [
+    0.7,
+    0.75
+   ],
+   "aantal_modellen_met_kans": 2
+  }
+ ]
+}
